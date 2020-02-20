@@ -301,8 +301,8 @@ File: D:\wamp\www\user3\prestashop\PRS01\themes\Electro\templates\errors\restric
   <file original="D:\wamp\www\user3\prestashop\PRS01\themes\Electro\templates\index.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
     <body>
       <trans-unit id="1529636c2dd134b028a08f7b131115b5">
-        <source>Summer's Best</source>
-        <target>Meilleur d'été</target>
+        <source>Your Style Your Choice</source>
+        <target>Votre style votre choix</target>
         <note>Context:
 File: D:\wamp\www\user3\prestashop\PRS01\themes\Electro\templates\index.tpl:34</note>
       </trans-unit>

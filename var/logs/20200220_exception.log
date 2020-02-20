@@ -1,0 +1,5 @@
+*ERROR* 	v1.7.5.1	2020/02/20 - 18:03:47: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu.  at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.5.1	2020/02/20 - 18:03:48: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu.  at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.5.1	2020/02/20 - 18:03:53: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu.  at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.5.1	2020/02/20 - 18:04:02: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu.  at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.5.1	2020/02/20 - 18:04:04: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu.  at line 127 in file classes/db/DbPDO.php

@@ -141,11 +141,19 @@
 	#main .images-container .js-qv-mask {}
 }
 
+#czleftbanner
+
+{
+	
+	display : none ;
+}
+/*
 #czleftbanner img,
 #czrightbanner img{
 	max-width: 100%;
 	margin-bottom: 10px;
-}	
+}
+*/	
 .top_button {
 	background: #34373c;
     border: 1px solid #fff;
