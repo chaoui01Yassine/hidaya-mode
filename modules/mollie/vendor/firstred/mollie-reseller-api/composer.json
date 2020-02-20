@@ -1,0 +1,50 @@
+{
+  "name": "firstred/mollie-reseller-api",
+  "description": "Mollie Reseller API",
+  "homepage": "https://github.com/mollie/reseller-api",
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "Mollie B.V.",
+      "email": "info@mollie.com"
+    },
+    {
+      "name": "Michael Dekker",
+      "email": "michael@snowycatsoftware.com"
+    }
+  ],
+  "keywords": [
+    "mollie",
+    "payment",
+    "reseller",
+    "service",
+    "ideal",
+    "creditcard",
+    "mistercash",
+    "bancontact",
+    "sofort",
+    "sofortbanking",
+    "sepa",
+    "bitcoin",
+    "paypal",
+    "paysafecard",
+    "payments",
+    "gateway"
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^3.7 | ^4.0"
+  },
+  "autoload": {
+    "classmap": [
+      "php/src/"
+    ]
+  },
+  "require": {
+    "php": ">=5.3.29",
+    "ext-curl": "*",
+    "ext-openssl": "*",
+    "ext-xml": "*",
+    "composer/ca-bundle": "^1.1",
+    "ext-simplexml": "*"
+  }
+}

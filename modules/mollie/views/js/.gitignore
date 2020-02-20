@@ -1,0 +1,4 @@
+*.css.d.ts
+dist/**
+ignoreme/**
+node_modules/**
