@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-09 11:16:03
+/* Smarty version 3.1.33, created on 2020-03-01 09:49:45
   from '/home/hidayamoyo/www/modules/ps_imageslider/views/templates/hook/list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e3fdbe31c3929_35261324',
+  'unifunc' => 'content_5e5b7729158ca2_10321554',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9606081b5c24ff56f9158a0df35f03109cfb70af' => 
     array (
       0 => '/home/hidayamoyo/www/modules/ps_imageslider/views/templates/hook/list.tpl',
-      1 => 1528193447,
+      1 => 1582224270,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e3fdbe31c3929_35261324 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5b7729158ca2_10321554 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="panel"><h3><i class="icon-list-ul"></i> <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Slides list','d'=>'Modules.Imageslider.Admin'),$_smarty_tpl ) );?>
 
 	<span class="panel-heading-action">

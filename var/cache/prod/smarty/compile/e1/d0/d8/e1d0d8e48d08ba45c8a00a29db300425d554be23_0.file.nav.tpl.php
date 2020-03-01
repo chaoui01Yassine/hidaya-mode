@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:21:31
+/* Smarty version 3.1.33, created on 2020-03-01 09:45:58
   from '/home/hidayamoyo/www/admin1019/themes/default/template/nav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e05beaa951_08414718',
+  'unifunc' => 'content_5e5b76464be055_78356540',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'e1d0d8e48d08ba45c8a00a29db300425d554be23' => 
     array (
       0 => '/home/hidayamoyo/www/admin1019/themes/default/template/nav.tpl',
-      1 => 1549984772,
+      1 => 1582223825,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e39e05beaa951_08414718 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5b76464be055_78356540 (Smarty_Internal_Template $_smarty_tpl) {
 ?><nav class="nav-bar d-none d-md-block" role="navigation" id="nav-sidebar">
 	<span class="menu-collapse">
 		<i class="material-icons">chevron_left</i>

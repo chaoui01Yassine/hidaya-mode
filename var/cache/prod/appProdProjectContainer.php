@@ -16,6 +16,6 @@ if (!\class_exists(appProdProjectContainer::class, false)) {
 
 return new \ContainerZ7vpn5x\appProdProjectContainer([
     'container.build_hash' => 'Z7vpn5x',
-    'container.build_id' => '73d72c2f',
-    'container.build_time' => 1580851287,
+    'container.build_id' => '8d897c9e',
+    'container.build_time' => 1581424128,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerZ7vpn5x');

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:21:39
+/* Smarty version 3.1.33, created on 2020-02-20 19:48:23
   from 'module:czbestsellersviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e0630e0c44_29690560',
+  'unifunc' => 'content_5e4ed477b12271_82616461',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd89581172ac1f63f4cd92d7aaff3d39d43927f12' => 
     array (
       0 => 'module:czbestsellersviewstemplat',
-      1 => 1580851266,
+      1 => 1582223866,
       2 => 'module',
     ),
   ),
@@ -21,8 +21,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_5e39e0630e0c44_29690560 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '4167956175e39e0630d57d1_77823405';
+function content_5e4ed477b12271_82616461 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '2374628465e4ed477b0a430_47293157';
 ?>
 
 <section class="bestseller-products">

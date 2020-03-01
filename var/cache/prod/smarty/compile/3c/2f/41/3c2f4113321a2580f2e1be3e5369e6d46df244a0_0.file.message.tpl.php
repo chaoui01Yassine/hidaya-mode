@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-09 10:45:19
+/* Smarty version 3.1.33, created on 2020-02-11 18:42:54
   from '/home/hidayamoyo/www/admin1019/themes/default/template/controllers/customer_threads/helpers/view/message.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e3fd4af64b907_08832475',
+  'unifunc' => 'content_5e42e79e257831_24329193',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e3fd4af64b907_08832475 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e42e79e257831_24329193 (Smarty_Internal_Template $_smarty_tpl) {
 if (!$_smarty_tpl->tpl_vars['message']->value['id_employee']) {?>
 	<?php $_smarty_tpl->_assignInScope('type', "customer");
 } else { ?>

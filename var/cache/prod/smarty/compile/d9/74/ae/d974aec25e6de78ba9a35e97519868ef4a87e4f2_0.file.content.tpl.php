@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-06 20:47:22
+/* Smarty version 3.1.33, created on 2020-03-01 09:49:00
   from '/home/hidayamoyo/www/admin1019/themes/default/template/controllers/images/content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e3c6d4a4935c6_78146202',
+  'unifunc' => 'content_5e5b76fc5ed817_06963105',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd974aec25e6de78ba9a35e97519868ef4a87e4f2' => 
     array (
       0 => '/home/hidayamoyo/www/admin1019/themes/default/template/controllers/images/content.tpl',
-      1 => 1549984772,
+      1 => 1582223796,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e3c6d4a4935c6_78146202 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5b76fc5ed817_06963105 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="alert alert-danger">
 	<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'By default, all images settings are already installed in your store. Do not delete them, you will need it!','d'=>'Admin.Design.Help'),$_smarty_tpl ) );?>

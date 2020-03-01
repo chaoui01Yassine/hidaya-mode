@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:24:43
+/* Smarty version 3.1.33, created on 2020-02-10 22:07:44
   from '/home/hidayamoyo/www/modules/mollie/views/templates/hook/qr_code.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e11bae6dc4_39767432',
+  'unifunc' => 'content_5e41c6205e1cb3_09349552',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e39e11bae6dc4_39767432 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e41c6205e1cb3_09349552 (Smarty_Internal_Template $_smarty_tpl) {
 if (Configuration::get(Mollie::MOLLIE_QRENABLED) && Mollie::selectedApi() === Mollie::MOLLIE_PAYMENTS_API) {?>
   <div id="mollie-qr-code"></div>
   <?php echo '<script'; ?>

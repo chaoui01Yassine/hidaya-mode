@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-06 20:46:27
+/* Smarty version 3.1.33, created on 2020-03-01 09:49:34
   from '/home/hidayamoyo/www/modules/ps_themecusto/views/templates/admin/controllers/configuration/index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e3c6d13592e59_14058105',
+  'unifunc' => 'content_5e5b771e163626_14942309',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b775effc1542df1dcfa6e2046d19c45622e0dee3' => 
     array (
       0 => '/home/hidayamoyo/www/modules/ps_themecusto/views/templates/admin/controllers/configuration/index.tpl',
-      1 => 1537371984,
+      1 => 1582224301,
       2 => 'file',
     ),
   ),
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./elem/modal.tpl' => 1,
   ),
 ),false)) {
-function content_5e3c6d13592e59_14058105 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5b771e163626_14942309 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="psthemecusto">
     <?php if ($_smarty_tpl->tpl_vars['is_ps_ready']->value) {?>

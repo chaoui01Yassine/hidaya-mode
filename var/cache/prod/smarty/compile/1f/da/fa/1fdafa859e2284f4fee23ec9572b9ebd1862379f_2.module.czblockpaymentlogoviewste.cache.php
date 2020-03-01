@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:21:39
+/* Smarty version 3.1.33, created on 2020-02-20 19:48:23
   from 'module:czblockpaymentlogoviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e063359ed7_12057377',
+  'unifunc' => 'content_5e4ed477e14863_56272637',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1fdafa859e2284f4fee23ec9572b9ebd1862379f' => 
     array (
       0 => 'module:czblockpaymentlogoviewste',
-      1 => 1580851266,
+      1 => 1582223868,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e39e063359ed7_12057377 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1948009955e39e063356028_92742890';
+function content_5e4ed477e14863_56272637 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '4231875665e4ed477e11f98_47041101';
 ?>
 
 <!-- Block payment logo module -->

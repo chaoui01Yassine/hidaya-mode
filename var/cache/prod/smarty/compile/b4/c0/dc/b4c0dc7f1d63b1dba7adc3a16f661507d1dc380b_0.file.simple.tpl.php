@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:21:31
+/* Smarty version 3.1.33, created on 2020-03-01 09:47:35
   from '/home/hidayamoyo/www/admin1019/themes/default/template/helpers/uploader/simple.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e05bb954e3_81078127',
+  'unifunc' => 'content_5e5b76a7ec2360_71792924',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b4c0dc7f1d63b1dba7adc3a16f661507d1dc380b' => 
     array (
       0 => '/home/hidayamoyo/www/admin1019/themes/default/template/helpers/uploader/simple.tpl',
-      1 => 1549984772,
+      1 => 1582223824,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e39e05bb954e3_81078127 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5b76a7ec2360_71792924 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['files']->value) && count($_smarty_tpl->tpl_vars['files']->value) > 0) {?>
 	<?php $_smarty_tpl->_assignInScope('show_thumbnail', false);?>
 	<?php

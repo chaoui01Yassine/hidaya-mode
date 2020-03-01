@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:21:31
+/* Smarty version 3.1.33, created on 2020-03-01 09:47:36
   from '/home/hidayamoyo/www/modules/ps_mbo/views/templates/admin/admin-end-content-theme.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e05befc573_22592871',
+  'unifunc' => 'content_5e5b76a8254363_79873946',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f0a406b809391ac55174b39d50ee1ed5993f669c' => 
     array (
       0 => '/home/hidayamoyo/www/modules/ps_mbo/views/templates/admin/admin-end-content-theme.tpl',
-      1 => 1578089781,
+      1 => 1582224284,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e39e05befc573_22592871 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5b76a8254363_79873946 (Smarty_Internal_Template $_smarty_tpl) {
 ?> 
 <div class="panel clearfix" id="prestastore-content"></div>
 <?php echo '<script'; ?>

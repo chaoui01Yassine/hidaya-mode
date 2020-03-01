@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:22:41
+/* Smarty version 3.1.33, created on 2020-02-11 13:27:51
   from 'module:pssharebuttonsviewstempla' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e0a1cb8424_89589293',
+  'unifunc' => 'content_5e429dc70817d4_49665738',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,9 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5e39e0a1cb8424_89589293 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e429dc70817d4_49665738 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
+));
 ?>
 
       <div class="social-sharing">

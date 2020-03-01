@@ -1,30 +1,30 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-04 22:21:39
+/* Smarty version 3.1.33, created on 2020-02-21 11:05:29
   from 'module:czbestsellersviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e39e063108399_45127817',
+  'unifunc' => 'content_5e4fab69189500_12321263',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd89581172ac1f63f4cd92d7aaff3d39d43927f12' => 
     array (
       0 => 'module:czbestsellersviewstemplat',
-      1 => 1580851266,
+      1 => 1582223866,
       2 => 'module',
     ),
     '35a56ba75fb36e5d28c663fb1ae61be649bda06b' => 
     array (
       0 => '/home/hidayamoyo/www/themes/TheStyle/templates/catalog/_partials/miniatures/product.tpl',
-      1 => 1580851266,
+      1 => 1582222435,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5e39e063108399_45127817 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e4fab69189500_12321263 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?>

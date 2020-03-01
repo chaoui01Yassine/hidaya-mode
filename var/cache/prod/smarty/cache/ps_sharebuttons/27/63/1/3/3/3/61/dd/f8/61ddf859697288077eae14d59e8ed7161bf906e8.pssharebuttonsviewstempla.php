@@ -1,24 +1,26 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-06 20:39:21
+/* Smarty version 3.1.33, created on 2020-02-24 10:22:39
   from 'module:pssharebuttonsviewstempla' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e3c6b69582246_83059918',
+  'unifunc' => 'content_5e5395df092b46_05044978',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ce908e3af500ef88d0be39d6badc82307b6995cd' => 
     array (
       0 => 'module:pssharebuttonsviewstempla',
-      1 => 1580851267,
+      1 => 1582222430,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5e3c6b69582246_83059918 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5395df092b46_05044978 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
+));
 ?>
 
       <div class="social-sharing">

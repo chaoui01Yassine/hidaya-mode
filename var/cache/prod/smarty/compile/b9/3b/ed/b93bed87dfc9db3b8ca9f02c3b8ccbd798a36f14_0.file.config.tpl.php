@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-06 20:41:29
+/* Smarty version 3.1.33, created on 2020-03-01 09:45:58
   from '/home/hidayamoyo/www/modules/dashgoals/views/templates/hook/config.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e3c6be9bb99c7_32005709',
+  'unifunc' => 'content_5e5b76462a98e7_28814827',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b93bed87dfc9db3b8ca9f02c3b8ccbd798a36f14' => 
     array (
       0 => '/home/hidayamoyo/www/modules/dashgoals/views/templates/hook/config.tpl',
-      1 => 1517248317,
+      1 => 1582223887,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e3c6be9bb99c7_32005709 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e5b76462a98e7_28814827 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section id="dashgoals_config" class="dash_config hide">
 	<header><i class="icon-wrench"></i> <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Configuration','d'=>'Admin.Global'),$_smarty_tpl ) );?>
 </header>
