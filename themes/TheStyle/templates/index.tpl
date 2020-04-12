@@ -33,7 +33,7 @@
 	
 	<section class="cz-hometabcontent">
 		<div class="container"> 
-				{*<h2 class="h1 products-section-title text-uppercase">{l s="Summer's Best" d='Shop.Theme.Global'}</h2>*}
+				<h2 class="h1 products-section-title text-uppercase">{l s="Summer's Best" d='Shop.Theme.Global'}</h2>
 				<div class="tabs">
 					<ul id="home-page-tabs" class="nav nav-tabs clearfix">
 						<li class="nav-item">

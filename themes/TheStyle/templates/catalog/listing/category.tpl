@@ -43,7 +43,7 @@
 	</div>
 	
     {if $subcategories}
-		{*<div id="subcategories">
+		<div id="subcategories">
 			<p class="subcategory-heading">{l s='Subcategories'}</p>
 			<ul class="clearfix">
 				{foreach from=$subcategories item=subcategory}
@@ -62,10 +62,10 @@
 						{if $subcategory.description}
 							<div class="cat_desc">{$subcategory.description nofilter}</div>
 						{/if}
-						
+						*}
 					</li>
 				{/foreach}
 			</ul>
-		</div>**}
+		</div>
 	{/if}
 {/block}

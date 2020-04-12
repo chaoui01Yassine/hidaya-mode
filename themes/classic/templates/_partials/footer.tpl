@@ -46,7 +46,7 @@
         <p class="text-sm-center">
           {block name='copyright_link'}
             <a class="_blank" href="http://www.prestashop.com" target="_blank">
-              {l s='%copyright% %year% - Ecommerce  by Hidaya-Mode' sprintf=['Hidaya-Mode' => 'Hidaya-Mode™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
+              {l s='%copyright% %year% - Ecommerce software by Hidaya-Mode' sprintf=['Hidaya-Mode' => 'Hidaya-Mode™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
             </a>
           {/block}
         </p>
